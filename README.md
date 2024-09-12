@@ -10,7 +10,7 @@ I am a recent graduate from the University of Washington with a degree in Applie
 - 😄 Pronouns: she/her/hers
 
 Languages and Tools: 
-Python, SQL, Tableau, GIT
+Python, SQL, Tableau, GIT, Excel
 
 <!--
 **Annah998936/Annah998936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
